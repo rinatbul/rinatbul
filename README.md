@@ -4,7 +4,7 @@
 
 I like
 - :book: read
-- :bike: bike
+- :bicycle: bike
 - :computer: coding
 
 ### Languages and Tools
