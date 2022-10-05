@@ -1,4 +1,4 @@
-## Hello Friend!
+<h1 align="center">Hello Friend!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ## I'm a beginner Front-end developer
 
